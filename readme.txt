@@ -11,3 +11,9 @@ Creating a new branch is quick and simple.
 Git can use -no-ff to stop Fast forward merge.
 
 Finished the development.
+
+
+
+************
+Changes made by second developer.
+************
